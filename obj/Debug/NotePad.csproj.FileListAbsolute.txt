@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\NotePad\NotePad\bin\Debug\NotePad.exe.config
+C:\Users\HP\source\repos\NotePad\NotePad\bin\Debug\NotePad.exe
+C:\Users\HP\source\repos\NotePad\NotePad\bin\Debug\NotePad.pdb
+C:\Users\HP\source\repos\NotePad\NotePad\obj\Debug\NotePad.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\NotePad\NotePad\obj\Debug\NotePad.Form1.resources
+C:\Users\HP\source\repos\NotePad\NotePad\obj\Debug\NotePad.Properties.Resources.resources
+C:\Users\HP\source\repos\NotePad\NotePad\obj\Debug\NotePad.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\NotePad\NotePad\obj\Debug\NotePad.exe
+C:\Users\HP\source\repos\NotePad\NotePad\obj\Debug\NotePad.pdb
